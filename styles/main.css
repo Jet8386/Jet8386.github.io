@@ -1,11 +1,11 @@
 header {
+   background-image: url("../images/backgroundimage.jpg");
    height: 60vh;
    justify-content: center;
    text-align: center;
  }
 
  h1 {
-   background-image: url("../images/backgroundimage.jpg");
    color: hsla(0, 0%, 100%, 0.9);
    font-weight: bold;
  }
