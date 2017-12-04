@@ -3,7 +3,8 @@ header {
    background: center, cover;
    justify-content: center;
    text-align: center;
-   background-size: auto 50%;
+   background-size: auto 25%;
+   background-repeat: no-repeat;
  }
 
  h1 {
