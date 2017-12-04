@@ -1,5 +1,5 @@
 header {
-   background: url("testing.jpg") center / cover;
+   background-image: url("testing.jpg");
    height: 60vh;
    justify-content: center;
    text-align: center;
