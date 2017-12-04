@@ -1,7 +1,5 @@
 header {
    background-image: url("../images/backgroundimage.jpg");
-   max-width: 50%; 
-   height: auto;
    justify-content: center;
    text-align: center;
  }
