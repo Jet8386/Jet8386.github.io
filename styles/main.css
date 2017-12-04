@@ -3,6 +3,7 @@ header {
    background: center, cover;
    justify-content: center;
    text-align: center;
+   height: 600px; 
  }
 
  h1 {
