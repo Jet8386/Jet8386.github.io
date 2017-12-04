@@ -1,5 +1,6 @@
 header {
    background-image: url("testing.jpg");
+   background-color: blue;
    height: 60vh;
    justify-content: center;
    text-align: center;
