@@ -3,7 +3,7 @@ header {
    background: center, cover;
    justify-content: center;
    text-align: center;
-   background-size: 5% 5%;
+   background-size: 25% auto;
  }
 
  h1 {
