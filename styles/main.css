@@ -5,7 +5,7 @@ header {
  }
 
  h1 {
-   background-image: url("../images/testing.jpg");
+   background-image: url("../images/background-image.jpg");
    color: hsla(0, 0%, 100%, 0.9);
    font-weight: bold;
  }
