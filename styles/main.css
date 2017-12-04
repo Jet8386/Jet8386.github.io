@@ -1,5 +1,6 @@
 header {
    background-image: url("../images/backgroundimage.jpg");
+   background-size: 300px 100px;
    justify-content: center;
    text-align: center;
  }
