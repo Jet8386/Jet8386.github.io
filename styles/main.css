@@ -1,6 +1,6 @@
 header {
    background-image: url("../images/backgroundimage.jpg");
-   background: center, cover;
+   background: center;
    justify-content: center;
    text-align: center;
    background-size: auto 25%;
